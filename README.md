@@ -13,7 +13,6 @@
 * AWS Cloud Computing
 * Generative AI
 * Machine Learning Fundamentals
-* Ubuntu / Linux
 * Git & GitHub
 
 ## 🎯 Current Goals
